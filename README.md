@@ -21,7 +21,7 @@ przewodni dziedzictwa.
 
 Strona prezentuje wybrane treści; pełne archiwum (wszystkie artykuły, galerie, dokumenty)
 linkowane jest do kompletnej kopii serwisu:
-**https://syriod-rgb.github.io/klubpolarny-pl/**
+**https://przemek1410.github.io/klubpolarny-pl/**
 
 ## Uruchomienie
 
@@ -33,3 +33,7 @@ linkowane jest do kompletnej kopii serwisu:
 
 Treści, fotografie i materiały należą do **Polskiego Klubu Polarnego**.
 Fotografie archiwalne pochodzą z dokumentacji Polskiej Wyprawy na Grenlandię (1937).
+
+## Rola repozytorium — 2026-09-21
+
+`klubpolarny-nowa` jest wariantem rozwojowym nowej witryny. `klubpolarny-pl` zachowuje pełne archiwum, a `klubpolarny` pozostaje historyczną kopią źródłową. Wszystkie trzy adresy GitHub Pages odpowiadają HTTP 200. Nie jest to decyzja o przełączeniu domeny klubpolarny.pl ani o usunięciu istniejących materiałów.
